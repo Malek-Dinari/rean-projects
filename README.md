@@ -5,4 +5,6 @@
 
 ## 📂 Repository Structure
 The repository contains subfolders for each project, making it modular and easy to explore. Here’s the current structure:
+  ```plaintext
   ├── ams/    #Cat image application
+  ```
