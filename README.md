@@ -8,3 +8,4 @@ The repository contains subfolders for each project, making it modular and easy 
 ```plaintext
 ├── ams/            # Cat image application
 ├── ensi-cv-app/    # CV application for ENSI
+├── rean-portfolio  # JS based expo app: profile, diplomas, proejcts & contact; with stack and tab navigation
