@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { ScrollView, TextInput, Alert, Linking, StyleSheet } from 'react-native';
 import { Button } from 'react-native-paper';
 import * as MailComposer from 'expo-mail-composer';
-import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
+//import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import Entypo from 'react-native-vector-icons/Entypo';
 
 const ContactScreen = () => {
